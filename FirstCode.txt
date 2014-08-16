@@ -1,1 +1,3 @@
 This is my first code created on Linux
+
+And then i'm making a second line on Windows
